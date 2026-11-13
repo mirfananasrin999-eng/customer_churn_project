@@ -4,11 +4,15 @@ This project performs an Exploratory Data Analysis (EDA) on an E-Commerce custom
 
 ### 📊 Dataset Summary
 Dataset File: E-commerce_Customer_Churn_2026.csv
+
 Total Records: 50,000 customers
+
 Total Features: 48 columns (demographic, behavioral, transactional, and churn-related metrics)
-Key Metrics at a Glance:
+
 Overall Churn Rate: ~41.31% (58.7% retained vs. 41.3% churned)
+
 Average Customer Tenure: ~30 months
+
 Average Total Spend: $25,039.36
 Average Churn Risk Score: 41.16 / 100
 Average Customer Satisfaction Score: 3.01 / 5.0
