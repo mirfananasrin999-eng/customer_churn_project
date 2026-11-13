@@ -1,8 +1,8 @@
-🛒 E-Commerce Customer Churn Analysis (EDA)
-📌 Project Overview
+### 🛒 E-Commerce Customer Churn Analysis (EDA)
+### 📌 Project Overview
 This project performs an Exploratory Data Analysis (EDA) on an E-Commerce customer dataset containing 50,000 records and 48 features. The primary objective is to uncover patterns in customer purchasing behavior, engagement metrics, satisfaction levels, and key drivers behind customer churn.
 
-📊 Dataset Summary
+### 📊 Dataset Summary
 Dataset File: E-commerce_Customer_Churn_2026.csv
 Total Records: 50,000 customers
 Total Features: 48 columns (demographic, behavioral, transactional, and churn-related metrics)
@@ -17,7 +17,7 @@ Average Customer Health Score: 88.60
 Average Retention Probability: 44.78%
 Average Revenue Impact due to Churn: $4,135.55
 
-🧹 Data Cleaning & Preprocessing
+### 🧹 Data Cleaning & Preprocessing
 Duplicate Check: 
 Verified that there are 0 duplicate rows in the dataset.
 Missing Value Handling:
@@ -29,7 +29,7 @@ prevention_method (36,874 missing)
 social_media_engagement (15,004 missing) 
 → Filled with "unknown"
 
-🔍 Exploratory Data Analysis & Key Insights
+### 🔍 Exploratory Data Analysis & Key Insights
 1. Customer Churn Distribution
 58.7% of customers remain active with the company, whereas 41.3% have churned—indicating a significant retention challenge that requires targeted intervention.
 2. Customer Segment Distribution
@@ -40,7 +40,7 @@ Among the top 5 countries by customer volume, Singapore leads with the highest n
 4. Churn Reason Analysis
 Analyzed primary reasons for customer attrition (such as Found Alternative and Poor Customer Service) to identify actionable areas for improving customer retention.
 
-🛠️ Technologies & Libraries Used
+### 🛠️ Technologies & Libraries Used
 Python 3
 Pandas – Data manipulation and analysis
 NumPy – Numerical operations
