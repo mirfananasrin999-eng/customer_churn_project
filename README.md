@@ -18,8 +18,10 @@ Average Retention Probability: 44.78%
 Average Revenue Impact due to Churn: $4,135.55
 
 🧹 Data Cleaning & Preprocessing
-Duplicate Check: Verified that there are 0 duplicate rows in the dataset.
-Missing Value Handling: Identified missing values in three categorical columns and imputed them appropriately:
+Duplicate Check: 
+Verified that there are 0 duplicate rows in the dataset.
+Missing Value Handling:
+Identified missing values in three categorical columns and imputed them appropriately:
 subscription_type (13,142 missing) 
 → Filled with "unknown"
 prevention_method (36,874 missing) 
